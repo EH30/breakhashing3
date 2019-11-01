@@ -17,6 +17,6 @@ SUBSCRIBE: https://www.youtube.com/channel/UCKAmv8p_TRvUNrJlfiB8qBQ
 
 --------------------------------------- 
 git clone: https://github.com/EH30/BreakHashing  
-cd BreakHashing 
+cd BreakHashing  
 python breakhashing  
 ----------------------------------------
